@@ -204,7 +204,7 @@ header .logo img {
     display: flex;
     justify-content: center;
     align-items: center;
-    backdrop-filter: blur(20px);
+    backdrop-filter: blur(10px);
     visibility: hidden;
     opacity: 0;
 }
